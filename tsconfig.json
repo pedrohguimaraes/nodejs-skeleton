@@ -4,6 +4,7 @@
         "module": "commonjs", // usar import e export
         "target": "es2019", // versão que será gerado o javascript
         "esModuleInterop": true, // conversao para módulo commonjs,
-        "allowJs": true
+        "allowJs": true,
+        "strictNullChecks": true
     }
 } 
